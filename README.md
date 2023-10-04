@@ -1,2 +1,2 @@
 # ED2Trabalho
-Trabalho da disciplina de estrutura de dados 2
+Trabalho realizado com o intuito de avaliar desempenho dos diferentes algoritmos de ordenação em Java.
